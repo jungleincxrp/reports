@@ -1,4 +1,5 @@
 ---
+---
 title: Jungle Inc Reports
 layout: default
 ---
@@ -13,7 +14,7 @@ All reports are produced or curated by Jungle Inc and may include AI-generated a
 
 ## 🧠 Topics Covered
 
-- 🌐 **[Crypto](https://github.com/jungleincxrp/reports/tree/main/Crypto)** — XRP, Ripple, DeFi, Layer 1s, and digital asset regulation  
+- 🌐 **Crypto** — XRP, Ripple, DeFi, Layer 1s, and digital asset regulation  
 - 📊 **Stock Markets** — Earnings, trends, valuations, and investor sentiment  
 - 🌍 **Global Macro** — Interest rates, Fed policy, inflation, BRICS, CBDCs  
 - 🤖 **AI & Machine Learning** — Model comparisons, use cases, and ethics  
